@@ -1,14 +1,14 @@
 ---
 title: Sourcey
 repo: sourcey/sourcey
-homepage: https://sourcey.com
+homepage: https://sourcey.com/oss
 language:
-  - JavaScript
-license:
-  - AGPL-3.0
-templates:
   - TypeScript
-description: Open source documentation platform for OpenAPI specs and markdown. Static HTML output, no runtime.
+license:
+  - AGPL-3.0-only
+templates:
+  - Markdown
+description: Open source documentation generator for OpenAPI, MCP, Doxygen, godoc, rustdoc, and Markdown. Static HTML output.
 ---
 
-Sourcey is an open source documentation platform that generates static sites from OpenAPI specs and markdown. It produces clean, static HTML output with no runtime dependencies.
+Sourcey builds static documentation sites from OpenAPI, MCP, Doxygen, godoc, rustdoc, and Markdown sources. The generated HTML can be hosted without a Sourcey runtime.
