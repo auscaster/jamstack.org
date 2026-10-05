@@ -1,7 +1,7 @@
 ---
 title: Sourcey
 repo: sourcey/sourcey
-homepage: https://sourcey.com/oss
+homepage: https://sourcey.com/docs
 language:
   - TypeScript
 license:
